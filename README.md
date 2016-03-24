@@ -1,3 +1,9 @@
+Deprecated:
+-----------
+delitescere has improved the size of the zulu jre build and has updated the version to 8u72.
+
+Please use his repository and docker images instead: https://github.com/delitescere/docker-zulu
+
 ```
 docker images
 REPOSITORY                   TAG                 IMAGE ID            CREATED             VIRTUAL SIZE
